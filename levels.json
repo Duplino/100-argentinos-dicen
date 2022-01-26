@@ -1,0 +1,197 @@
+{
+  "1": {
+    "answers": {
+      "1": {
+        "clue": "Botella",
+        "pts": 15
+      },
+      "2": {
+        "clue": "Beso",
+        "pts": 13
+      },
+      "3": {
+        "clue": "Pájaro",
+        "pts": 12
+      },
+      "4": {
+        "clue": "Herramienta",
+        "pts": 8
+      },
+      "5": {
+        "clue": "Presión/Estrés",
+        "pts": 6
+      },
+      "6": {
+        "clue": "Montaña",
+        "pts": 4
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿En que pensás si te digo \"pico\"?"
+    }
+  },
+  "2": {
+    "answers": {
+      "1": {
+        "clue": "Saco ropa/Zapatos",
+        "pts": 22
+      },
+      "2": {
+        "clue": "Sillón/Tele",
+        "pts": 11
+      },
+      "3": {
+        "clue": "Me ducho",
+        "pts": 8
+      },
+      "4": {
+        "clue": "Como algo",
+        "pts": 6
+      },
+      "5": {
+        "clue": "Abrir vino/ Birra",
+        "pts": 5
+      },
+      "6": {
+        "clue": "Me acuesto a dormir",
+        "pts": 3
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Que es lo primero que haces cuando llegas a tu casa cansado de trabajar?"
+    }
+  },
+  "3": {
+    "answers": {
+      "1": {
+        "clue": "King Kong",
+        "pts": 20
+      },
+      "2": {
+        "clue": "Chita",
+        "pts": 13
+      },
+      "3": {
+        "clue": "Jorge el curioso",
+        "pts": 7
+      },
+      "4": {
+        "clue": "Rafiki",
+        "pts": 6
+      },
+      "5": {
+        "clue": "Abú",
+        "pts": 4
+      },
+      "6": {
+        "clue": "Louie",
+        "pts": 3
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Un mono o mona de dibujos animados?"
+    }
+  },
+  "4": {
+    "answers": {
+      "1": {
+        "clue": "Lo dejo pasar",
+        "pts": 18
+      },
+      "2": {
+        "clue": "Le hago señas",
+        "pts": 10
+      },
+      "3": {
+        "clue": "Insulto/ Me enojo",
+        "pts": 9
+      },
+      "4": {
+        "clue": "Cambio posición espejo",
+        "pts": 6
+      },
+      "5": {
+        "clue": "Acelero",
+        "pts": 5
+      },
+      "6": {
+        "clue": "Clavo frenos/Molesto",
+        "pts": 4
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Que haces si vas manejando y el de atrás te encandila?"
+    }
+  },
+  "5": {
+    "answers": {
+      "1": {
+        "clue": "Papel",
+        "pts": 22
+      },
+      "2": {
+        "clue": "Pluma",
+        "pts": 18
+      },
+      "3": {
+        "clue": "Globo",
+        "pts": 13
+      },
+      "4": {
+        "clue": "Bolsa de nylon",
+        "pts": 8
+      },
+      "5": {
+        "clue": "Hoja de árbol/planta",
+        "pts": 5
+      },
+      "6": {
+        "clue": null,
+        "pts": 0
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Que soltas desde lo alto y cae muy lento?"
+    }
+  }
+}

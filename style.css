@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+    transition: transform 0.6s;
+}
+  
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+  }
+  .container, .score{
+      margin: 10px;
+  }
+  .flip-card {
+    background-color: transparent;
+    width: 48%;
+    height: 14vh;
+    perspective: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    margin: 10px;
+  }
+  .board{
+    font-size: 4em;
+    font-weight: bold;
+    background-color: transparent;
+    width: 30%;
+    height: 25vh;
+    perspective: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    float: left;
+    margin: 10px; 
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/003/462/322/small/abstract-dark-navy-blue-hexagon-pattern-background-in-3d-style-vector.jpg");
+    background-color: #00235D;
+    color: white;
+    border-radius: 0.5rem;
+    box-shadow: rgba(0,0,0,0.8) 0 0 10px;
+    border: #001333 solid 0.5rem;
+  }
+  .board.center{
+      width: 35%;
+      font-size: 7em;
+  }
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+  }
+  
+  .flip-card.selected .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    border-radius: 0.5em;
+    box-shadow: rgba(0,0,0,0.8) 0 0 10px;
+    border: #001333 solid 0.5rem;
+  }
+  
+  .flip-card-front {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/003/462/322/small/abstract-dark-navy-blue-hexagon-pattern-background-in-3d-style-vector.jpg");
+    background-color: #00235D;
+    color: white;
+  }
+  
+  .flip-card-back {
+    background-color: green;
+    color: white;
+    transform: rotateY(180deg);
+  }
+.answer, .number{
+    display: inline-block;
+}
+.answer{
+    width: 69%;
+}
+.number{
+    width: 30%;
+}
+
+.crosses{
+  top: 50%;
+  position: fixed;
+  z-index: 100;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  width: fit-content;
+}
+.crs{
+  height: 25rem;
+  margin: 2rem;
+}
+.hidden{
+  display: none;
+}
