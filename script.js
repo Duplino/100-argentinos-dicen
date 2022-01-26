@@ -80,4 +80,4 @@ title="";
     control.get_data();
 }
 
- 
+ loadLevel(1);
