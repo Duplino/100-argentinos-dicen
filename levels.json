@@ -388,5 +388,44 @@
     "info": {
       "title": "¿Como se limpiaban los cavernícolas después de \"lo segundo\"?"
     }
+  },
+  "11": {
+    "answers": {
+      "1": {
+        "clue": "Más fácil estacionar",
+        "pts": 36
+      },
+      "2": {
+        "clue": "Menos gastos",
+        "pts": 29
+      },
+      "3": {
+        "clue": "Bajo perfil/ discreción",
+        "pts": 14
+      },
+      "4": {
+        "clue": "Ando solo/ Sin familia",
+        "pts": 10
+      },
+      "5": {
+        "clue": null,
+        "pts": 0
+      },
+      "6": {
+        "clue": null,
+        "pts": 0
+      },
+      "7": {
+        "clue": null,
+        "pts": 0
+      },
+      "8": {
+        "clue": null,
+        "pts": 0
+      }
+    },
+    "info": {
+      "title": "¿Porque preferirias un auto chico en vez de un auto grande?"
+    }
   }
 }
